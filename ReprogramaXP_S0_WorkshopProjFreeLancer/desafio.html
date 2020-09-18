@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Workshop - Desafio</title>
+    <link rel="stylesheet" type="text/css" href="css/desafio.css" />
+  </head>
+  <body>
+
+
+    <fieldset>
+      <legend>Informe a quantidade "total" de horas do projeto:</legend>
+      <label for="horas-projeto">Total de horas</label>
+      <input type="number" id="horas-projeto" value="0" />
+    </fieldset></br>
+
+    <fieldset>
+      <legend>Informe o valor hora do projeto:</legend>
+      <label for="valor-hora">Valor Hora</label>
+      <input type="number" id="valor-hora" value="0" />
+    </fieldset>
+
+    <div></br>          
+      <button onclick="calcular()">Calcular Projeto</button>
+      </div>
+
+    <footer class="secao__rodape">
+      <h3 class="secao__rodape__valor">
+        <span id="resposta">R$ 0,00</span><small>/Total</small>
+
+      </h3>
+      <p class="secao__rodape__legenda">Este é o valor total do projeto</p>
+    </footer>
+
+    <a href="index.html">Voltar</a>
+
+    <script type="text/javascript" src="js/desafio.js"></script>
+  </body>
+</html>
