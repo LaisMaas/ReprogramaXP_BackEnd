@@ -25,7 +25,7 @@
 <li>Projeto Livre</li>
 </ol>
 
-<h3>Repositórios {Reprogama}</h3>
+<h3>Repositórios {Reprograma}</h3>
 
 <ul>
     <li><a href="https://github.com/reprograma/on6-xp-s1-introducao">Semana 1</a></li>
