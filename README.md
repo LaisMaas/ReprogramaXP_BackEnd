@@ -1,4 +1,4 @@
-<h2>Turma back-end 2020 {Reprograma} com a tecnologia Java Script.</h2>
+﻿<h2>Turma back-end 2020 {Reprograma} com a tecnologia Java Script.</h2>
 
 
 <h3># ReprogramaXP_BackEnd</h3>
@@ -33,9 +33,7 @@
     <li><a href="https://github.com/reprograma/on6-xp-s3-logica-js">Semana 3</a></li>
     <li><a href="https://github.com/reprograma/on6-xp-s4-logica-js">Semana 4</a></li>
     <li><a href="https://github.com/reprograma/on6-xp-s5-projeto1-js">Semana 5</a></li>
-    <li><a href="https://github.com/reprograma/on6-xp-s6-node-intro">Semana 6</a></li>
-    <li><a href="https://github.com/reprograma/on6-xp-s7-api-get">Semana 7</a></li>
-</ul>
+    <li><a 
 
 <h3>Links Úteis</h3></br>
 
