@@ -1,6 +1,6 @@
-<h2>Workshop {Reprograma}</h2><br><br>
+<h2>Workshop {Reprograma}</h2><br>
 
-<p>Atividade: Calculadora Free Lancer</p><br>
+<p>Atividade: Calculadora Free Lancer</p>
 <p>Desafio: Calculadora Horas de Trabalho</p><br><br>
 
 <img src = "https://github.com/LaisMaas/ReprogramaXP_BackEnd_JavaScript/blob/master/ReprogramaXP_S0_WorkshopProjFreeLancer/img/calculadoraFreeLancer2.png">
